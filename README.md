@@ -4,6 +4,6 @@ This repository serves as a central directory of all ArgMining'20 publications b
 
 * Jonas Dorsch and Henning Wachsmuth. Semi-Supervised Cleansing of Web Argument Corpora. [paper] [[code](https://github.com/webis-de/argmining20-argument-cleansing)]
 
-* Maximilian Spliethöver and Henning Wachsmuth. Argument from Old Man’s View: Assessing Social Bias in Argumentation. [paper] [code]
+* Maximilian Spliethöver and Henning Wachsmuth. Argument from Old Man’s View: Assessing Social Bias in Argumentation. [paper] [[code](https://github.com/webis-de/argmining20-social-bias-argumentation)]
 
 
